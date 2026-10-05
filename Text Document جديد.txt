@@ -1,0 +1,13 @@
+creat a modern and professional login page .
+the page must contain a contered login from with exactly these three input fields :
+1. username 
+2. email 
+3. password 
+add a clear titie at the top :creat your account 
+add a short subtitle :enter your information to continue 
+add a small text below the button : " already have an account ? loge in" 
+email must be in a valid email format 
+make the design modern clean elegant 
+use a beatiful modern color palette 
+use HTML ,CSS and JAVASCRIPT 
+test the page and fix any errors before finishing
